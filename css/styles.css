@@ -1,0 +1,12 @@
+#show-city{
+  display: none;
+}
+
+.each-city{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
